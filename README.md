@@ -20,7 +20,7 @@
 | Honourable Guest  | Overseas Presidents/Guests of the Server.                                                                                                                                              |
 | Social Broadcasters     | Well known Streamers/Influencers in the Community..                                                                                     |
 | OG         | Special Members of the server.                                                                                                                                                            |
-| Friends          | Friends with the Server Onwer [RV#4649](https://discord.com/users/472633151920013315)                                                                                                                                                        |
+| Friends          | Friends with the Server Onwer [RV#2582](https://discord.com/users/472633151920013315)                                                                                                                                                        |
 | Artist            | Talented Musicians/Artists of the [server](https://discord.gg/Np2YvkCmUn).                                                                                                                                     |
 | Developers            | Discord Bot Devs or Web Devs.                                                                                                                                     |
                                                                                                                           
