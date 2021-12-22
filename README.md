@@ -7,7 +7,7 @@
 
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Owner          | The Owner of Rush Discord Username : `RV#4649` ID : `472633151920013315`                                              |
+| Owner          | The Owner of Rush Discord Username : `RV#2582` ID : `472633151920013315`                                              |
 | Admins         | Admins of the server who take necessary decision for server.                                                          |
 | Management     | Server Manager who maintain peace and decorum in the server.                                                          |
 | Staff          | Moderators of server who help in maintaining chat and make sure that everyone follows server rules.                   |
